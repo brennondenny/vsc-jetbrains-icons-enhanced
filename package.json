@@ -1,0 +1,35 @@
+{
+  "name": "vsc-jetbrains-icons-enhanced",
+  "displayName": "JetBrains Icons Enhanced",
+  "description": "JetBrains Icons Enhanced is a collection of JetBrains icons with custom edits and selections.",
+  "categories": [
+    "Themes"
+  ],
+  "version": "1.0.0",
+  "publisher": "Brennon Denny",
+  "repository": "https://github.com/brennondenny/vsc-jetbrains-icons-enhanced",
+  "engines": {
+    "vscode": "^1.52.0"
+  },
+  "icon": "icon.png",
+  "extensionKind": [
+    "ui",
+    "workspace"
+  ],
+  "keywords": [
+    "jetbrains",
+    "icon",
+    "enhanced",
+    "webstorm",
+    "intellij"
+  ],
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "vsc-jetbrains-icons-enhanced",
+        "label": "JetBrains Icons Enhanced",
+        "path": "./icons/jetbrains-enhanced.json"
+      }
+    ]
+  }
+}
