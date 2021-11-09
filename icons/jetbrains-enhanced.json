@@ -1,11 +1,17 @@
 {
   "hidesExplorerArrows": false,
   "iconDefinitions": {
+    "_audio": {
+      "iconPath": "./svg/audio-icon.svg"
+    },
     "_angular": {
       "iconPath": "./svg/angular-icon.svg"
     },
     "_apache": {
       "iconPath": "./svg/apache-icon.svg"
+    },
+    "_assembly": {
+      "iconPath": "./svg/assembly-icon.svg"
     },
     "_shell": {
       "iconPath": "./svg/shell-icon.svg"
@@ -15,6 +21,9 @@
     },
     "_bootstrap": {
       "iconPath": "./svg/bootstrap-icon.svg"
+    },
+    "_clojure": {
+      "iconPath": "./svg/clojure-icon.svg"
     },
     "_coffeescript": {
       "iconPath": "./svg/coffeescript-icon.svg"
@@ -27,6 +36,9 @@
     },
     "_css": {
       "iconPath": "./svg/css-icon.svg"
+    },
+    "_csv": {
+      "iconPath": "./svg/csv-icon.svg"
     },
     "_cuda": {
       "iconPath": "./svg/cuda-icon.svg"
@@ -61,6 +73,9 @@
     "_env": {
       "iconPath": "./svg/env-icon.svg"
     },
+    "_excel": {
+      "iconPath": "./svg/excel-icon.svg"
+    },
     "_folder": {
       "iconPath": "./svg/folder-icon.svg"
     },
@@ -90,6 +105,9 @@
     },
     "_gradle": {
       "iconPath": "./svg/gradle-icon.svg"
+    },
+    "_graphql": {
+      "iconPath": "./svg/graphql-icon.svg"
     },
     "_groovy": {
       "iconPath": "./svg/groovy-icon.svg"
@@ -196,6 +214,9 @@
     "_svg": {
       "iconPath": "./svg/thumbnail-icon.svg"
     },
+    "_svelte": {
+      "iconPath": "./svg/svelte-icon.svg"
+    },
     "_swift": {
       "iconPath": "./svg/swift-icon.svg"
     },
@@ -234,21 +255,27 @@
   "folder": "_folder",
   "folderNames": {
     "assets": "_folderassets",
+    "resources": "_folderassets",
+    "images": "_folderassets",
     "docker": "_docker",
     "config": "_folderconfig",
+    "settings": "_folderconfig",
     "node_modules": "_foldermodules",
-    "public": "_folderpublic"
+    "public": "_folderpublic",
+    "web": "_folderpublic"
   },
   "fileExtensions": {
     "angular-cli.json": "_angular",
     "article": "_go",
+    "asm": "_assembly",
     "bin": "_binary",
     "dat": "_binary",
     "bash": "_shell",
     "c": "_cpp",
-    "classpath": "_javaclass",
-    "class": "_javaclass",
+    "classpath": "_javatypeclass",
+    "class": "_javatypeclass",
     "css": "_css",
+    "csv": "_csv",
     "cu": "_cuda",
     "cuh": "_cudahead",
     "dart": "_dart",
@@ -282,6 +309,8 @@
     "rar": "_zip",
     "7z": "_zip",
     "tar": "_zip",
+    "xls": "_excel",
+    "xlsx": "_excel",
     "java": "_java",
     "jpeg": "_image",
     "jpg": "_image",
@@ -321,6 +350,8 @@
     "wrl": "_model",
     "obj": "_model",
     "prt": "_model",
+    "svelte": "_svelte",
+    "graphql": "_graphql",
     "scss": "_scss",
     "sh": "_shell",
     "rs": "_rust",
@@ -347,13 +378,17 @@
     "yaml": "_yaml",
     "yml": "_yaml",
     "xml": "_xml",
-    "zip": "_zip"
+    "zip": "_zip",
+    "mp3": "_audio",
+    "ogg": "_audio",
+    "wav": "_audio"
   },
   "languageIds": {
     "coffeescript": "_coffeescript",
     "csharp": "_csharp",
     "cpp": "_cpp",
     "css": "_css",
+    "clojure": "_clojure",
     "dockerfile": "_dockerfile",
     "go": "_go",
     "handlebars": "_handlebars",
@@ -377,7 +412,9 @@
     "vue-html": "_vue",
     "git-commit": "_git",
     "git-rebase": "_git",
-    "textplain": "_textfile"
+    "textplain": "_textfile",
+    "svelte": "_svelte",
+    "graphql": "_graphql"
   },
   "fileNames": {
     "cspell.json": "_spellcheck",
