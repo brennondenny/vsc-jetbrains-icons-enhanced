@@ -4,7 +4,7 @@
 
 **[Get The VSCode Extension](https://marketplace.visualstudio.com/items?itemName=BrennonDenny.vsc-jetbrains-icons-enhanced)**
 
-[Request Icon](https://github.com/brennondenny/vsc-jetbrains-icons-enhanced)
+[Request Icon](https://github.com/brennondenny/vsc-jetbrains-icons-enhanced/issues)
 
 JetBrains Icons Enhanced is a collection of [JetBrains Icons](https://jetbrains.design/intellij/resources/icons_list/) with custom edits and additions.
 
