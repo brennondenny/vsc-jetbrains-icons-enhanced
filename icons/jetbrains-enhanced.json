@@ -28,6 +28,9 @@
     "_bootstrap": {
       "iconPath": "./svg/bootstrap-icon.svg"
     },
+    "_blade": {
+      "iconPath": "./svg/blade-icon.svg"
+    },
     "_circleci:": {
       "iconPath": "./svg/circleci-icon.svg"
     },
@@ -283,6 +286,9 @@
     "_typescript-test": {
       "iconPath": "./svg/typescript-test-icon.svg"
     },
+    "_twig": {
+      "iconPath": "./svg/twig-icon.svg"
+    },
     "_vscode": {
       "iconPath": "./svg/vscode-icon.svg"
     },
@@ -316,8 +322,8 @@
     "config": "_folderconfig",
     "dmp": "_log",
     "docker": "_docker",
-    "gen": "_gen",
-    "ios":"_apple",
+    "gen": "_foldergen",
+    "ios": "_apple",
     "images": "_folderassets",
     "log": "_log",
     "logs": "_log",
@@ -340,6 +346,7 @@
     "babelrc": "_babel",
     "bash": "_shell",
     "bin": "_binary",
+    "blade.php": "_blade",
     "c": "_cpp",
     "class": "_javatypeclass",
     "classpath": "_javatypeclass",
@@ -386,6 +393,7 @@
     "haml": "_haml",
     "htaccess": "_apache",
     "html": "_html",
+    "html.twig": "_twig",
     "ico": "_image",
     "iges": "_model",
     "igs": "_model",
@@ -449,6 +457,7 @@
     "txt": "_textfile",
     "typescript": "_typescript",
     "typescriptreact": "_typescript",
+    "twig": "_twig",
     "vscode": "_vscode",
     "vue": "_vue",
     "wav": "_audio",
@@ -507,7 +516,7 @@
     "gulpfile.babel.js": "_gulp",
     "gulpfile.js": "_gulp",
     "makefile": "_makefile",
-    "AndroidManifest.xml":"_manifest",
+    "AndroidManifest.xml": "_manifest",
     "npm-debug.log": "_npm",
     "readme.md": "_readme",
     "sass-lint.yml": "_sass",

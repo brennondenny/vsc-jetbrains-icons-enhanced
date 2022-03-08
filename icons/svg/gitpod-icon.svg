@@ -1,3 +1,4 @@
+<!-- https://www.gitpod.io/media-kit -->
 <svg
   viewBox="0 0 24 24"
   height="24"
@@ -23,7 +24,6 @@
       gradientUnits="userSpaceOnUse"
     >
       <stop stop-color="#FFB45B" />
-      <stop offset="1" stop-color="#FF8A00" />
     </linearGradient>
     <clipPath id="clip0">
       <path fill="#fff" d="M0 0h24v24H0z" />
