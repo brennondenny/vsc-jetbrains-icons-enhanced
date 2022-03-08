@@ -25,9 +25,6 @@
     "_binary": {
       "iconPath": "./svg/binary-icon.svg"
     },
-    "_bootstrap": {
-      "iconPath": "./svg/bootstrap-icon.svg"
-    },
     "_blade": {
       "iconPath": "./svg/blade-icon.svg"
     },
@@ -39,6 +36,9 @@
     },
     "_coffeescript": {
       "iconPath": "./svg/coffeescript-icon.svg"
+    },
+    "_c": {
+      "iconPath": "./svg/csharp-icon.svg"
     },
     "_cpp": {
       "iconPath": "./svg/cplusplus-icon.svg"
@@ -347,9 +347,11 @@
     "bash": "_shell",
     "bin": "_binary",
     "blade.php": "_blade",
-    "c": "_cpp",
+    "c": "_c",
+    "cpp": "_cpp",
     "class": "_javatypeclass",
     "classpath": "_javatypeclass",
+    "cs": "_csharp",
     "css": "_css",
     "csv": "_csv",
     "cu": "_cuda",
@@ -397,9 +399,12 @@
     "ico": "_image",
     "iges": "_model",
     "igs": "_model",
+    "j": "_java",
     "jar": "_zip",
     "java": "_java",
+    "jad": "_java",
     "jl": "_julia",
+    "jmod": "_java",
     "jpeg": "_image",
     "jpg": "_image",
     "js": "_js",
@@ -427,6 +432,10 @@
     "pug": "_pug",
     "pxm": "_image",
     "py": "_python",
+    "pyc": "_python",
+    "pyd": "_python",
+    "pyo": "_python",
+    "pyz": "_python",
     "rar": "_zip",
     "rs": "_rust",
     "sass": "_sass",
@@ -476,6 +485,7 @@
     "coffeescript": "_coffeescript",
     "cpp": "_cpp",
     "csharp": "_csharp",
+    "c": "_c",
     "css": "_css",
     "dockerfile": "_dockerfile",
     "git-commit": "_git",
