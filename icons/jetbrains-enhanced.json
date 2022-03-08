@@ -1,6 +1,12 @@
 {
   "hidesExplorerArrows": false,
   "iconDefinitions": {
+    "_android": {
+      "iconPath": "./svg/android-icon.svg"
+    },
+    "_apple": {
+      "iconPath": "./svg/apple-icon.svg"
+    },
     "_angular": {
       "iconPath": "./svg/angular-icon.svg"
     },
@@ -82,11 +88,23 @@
     "_folder": {
       "iconPath": "./svg/folder-icon.svg"
     },
+    "_folder-blue": {
+      "iconPath": "./svg/folder-blue-icon.svg"
+    },
+    "_folder-green": {
+      "iconPath": "./svg/folder-green-icon.svg"
+    },
+    "_folderapp": {
+      "iconPath": "./svg/folderapp-icon.svg"
+    },
     "_folderassets": {
       "iconPath": "./svg/folderassets-icon.svg"
     },
     "_folderconfig": {
       "iconPath": "./svg/folderconfig-icon.svg"
+    },
+    "_foldergen": {
+      "iconPath": "./svg/foldergen-icon.svg"
     },
     "_foldermodules": {
       "iconPath": "./svg/foldermodules-icon.svg"
@@ -102,6 +120,9 @@
     },
     "_gitignore": {
       "iconPath": "./svg/ignore-icon.svg"
+    },
+    "_gitpod": {
+      "iconPath": "./svg/gitpod-icon.svg"
     },
     "_go": {
       "iconPath": "./svg/go-icon.svg"
@@ -148,11 +169,17 @@
     "_js": {
       "iconPath": "./svg/javascript-icon.svg"
     },
+    "_js-test": {
+      "iconPath": "./svg/js-test-icon.svg"
+    },
     "_json": {
       "iconPath": "./svg/json-icon.svg"
     },
     "_jsx": {
       "iconPath": "./svg/jsx-icon.svg"
+    },
+    "_jsx-test": {
+      "iconPath": "./svg/jsx-test-icon.svg"
     },
     "_julia": {
       "iconPath": "./svg/julia-icon.svg"
@@ -168,6 +195,9 @@
     },
     "_makefile": {
       "iconPath": "./svg/makefile-icon.svg"
+    },
+    "_manifest": {
+      "iconPath": "./svg/manifest-icon.svg"
     },
     "_markdown": {
       "iconPath": "./svg/markdown-icon.svg"
@@ -189,6 +219,9 @@
     },
     "_pug": {
       "iconPath": "./svg/pug-icon.svg"
+    },
+    "_properties": {
+      "iconPath": "./svg/properties-icon.svg"
     },
     "_python": {
       "iconPath": "./svg/python-icon.svg"
@@ -247,6 +280,9 @@
     "_typescript": {
       "iconPath": "./svg/typescript-icon.svg"
     },
+    "_typescript-test": {
+      "iconPath": "./svg/typescript-test-icon.svg"
+    },
     "_vscode": {
       "iconPath": "./svg/vscode-icon.svg"
     },
@@ -273,10 +309,15 @@
   "folder": "_folder",
   "folderNames": {
     ".vscode": "_vscode",
+    "__tests__": "_folder-green",
+    "app": "_folderapp",
+    "android": "_android",
     "assets": "_folderassets",
     "config": "_folderconfig",
     "dmp": "_log",
     "docker": "_docker",
+    "gen": "_gen",
+    "ios":"_apple",
     "images": "_folderassets",
     "log": "_log",
     "logs": "_log",
@@ -284,6 +325,9 @@
     "public": "_folderpublic",
     "resources": "_folderassets",
     "settings": "_folderconfig",
+    "src": "_folder-blue",
+    "source": "_folder-blue",
+    "tests": "_folder-green",
     "web": "_folderpublic"
   },
   "fileExtensions": {
@@ -370,6 +414,7 @@
     "pdf": "_pdf",
     "php": "_php",
     "png": "_image",
+    "properties": "_properties",
     "prt": "_model",
     "pug": "_pug",
     "pxm": "_image",
@@ -393,6 +438,9 @@
     "svg": "_svg",
     "svgx": "_svg",
     "tar": "_zip",
+    "test.js": "_js-test",
+    "test.jsx": "_jsx-test",
+    "test.ts": "_typescript-test",
     "tlg": "_log",
     "toml": "_toml",
     "ts": "_typescript",
@@ -451,6 +499,7 @@
     "cspell.json": "_spellcheck",
     "docker-compose.yml": "_dockercompose",
     "dockerfile": "_dockerfile",
+    ".gitpod.yml": "_gitpod",
     "gruntfile.babel.js": "_grunt",
     "gruntfile.coffee": "_grunt",
     "gruntfile.js": "_grunt",
@@ -458,6 +507,7 @@
     "gulpfile.babel.js": "_gulp",
     "gulpfile.js": "_gulp",
     "makefile": "_makefile",
+    "AndroidManifest.xml":"_manifest",
     "npm-debug.log": "_npm",
     "readme.md": "_readme",
     "sass-lint.yml": "_sass",

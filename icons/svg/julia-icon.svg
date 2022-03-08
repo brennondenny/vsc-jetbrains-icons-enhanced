@@ -1,7 +1,4 @@
-<!--
-https://github.com/JuliaEditorSupport/julia-intellij/blob/master/res/icons/julia_file.svg
--->
-
+<!-- https://github.com/JuliaEditorSupport/julia-intellij/blob/master/res/icons/julia_file.svg -->
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 32 32">
 	<g fill="#9aa7b0">
 		<path style="isolation:isolate" opacity=".7" d="M12 0L4 8h8V0z"/>
