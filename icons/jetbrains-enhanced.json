@@ -115,6 +115,9 @@
     "_folderpublic": {
       "iconPath": "./svg/folderpublic-icon.svg"
     },
+    "_folderresources": {
+      "iconPath": "./svg/folderresources-icon.svg"
+    },
     "_font": {
       "iconPath": "./svg/dictionary-icon.svg"
     },
@@ -168,6 +171,9 @@
     },
     "_javatypeclass": {
       "iconPath": "./svg/javaclass-icon.svg"
+    },
+    "_jest": {
+      "iconPath": "./svg/jest-icon.svg"
     },
     "_js": {
       "iconPath": "./svg/javascript-icon.svg"
@@ -295,6 +301,9 @@
     "_vue": {
       "iconPath": "./svg/vue-icon.svg"
     },
+    "_word": {
+      "iconPath": "./svg/word-icon.svg"
+    },
     "_xml": {
       "iconPath": "./svg/xml-icon.svg"
     },
@@ -329,7 +338,7 @@
     "logs": "_log",
     "node_modules": "_foldermodules",
     "public": "_folderpublic",
-    "resources": "_folderassets",
+    "resources": "_folderresources",
     "settings": "_folderconfig",
     "src": "_folder-blue",
     "source": "_folder-blue",
@@ -361,6 +370,8 @@
     "dat": "_binary",
     "dll": "_binary",
     "dmp": "_log",
+    "doc": "_word",
+    "docx": "_word",
     "dockerignore": "_gitignore",
     "ds_store": "_dot",
     "editorconfig": "_editorconfig",
@@ -525,6 +536,7 @@
     "gulpfile": "_gulp",
     "gulpfile.babel.js": "_gulp",
     "gulpfile.js": "_gulp",
+    "jest.config": "_jest",
     "makefile": "_makefile",
     "AndroidManifest.xml": "_manifest",
     "npm-debug.log": "_npm",

@@ -5,7 +5,7 @@
   "categories": [
     "Themes"
   ],
-  "version": "1.3.1",
+  "version": "1.3.2",
   "publisher": "BrennonDenny",
   "repository": "https://github.com/brennondenny/vsc-jetbrains-icons-enhanced",
   "engines": {
@@ -18,11 +18,15 @@
   ],
   "keywords": [
     "jetbrains",
-    "icon",
-    "enhanced",
+    "icons",
+    "theme",
     "webstorm",
-    "intellij"
+    "intellij",
+    "pycharm"
   ],
+  "bugs": {
+    "url": "https://github.com/brennondenny/vsc-jetbrains-icons-enhanced/issues"
+  },
   "contributes": {
     "iconThemes": [
       {
