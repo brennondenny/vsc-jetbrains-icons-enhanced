@@ -13,6 +13,9 @@
     "_apache": {
       "iconPath": "./svg/apache-icon.svg"
     },
+    "_astro": {
+      "iconPath": "./svg/astro-icon.svg"
+    },
     "_assembly": {
       "iconPath": "./svg/assembly-icon.svg"
     },
@@ -96,6 +99,9 @@
     },
     "_folder-green": {
       "iconPath": "./svg/folder-green-icon.svg"
+    },
+    "_folder-purple": {
+      "iconPath": "./svg/folder-purple-icon.svg"
     },
     "_folderapp": {
       "iconPath": "./svg/folderapp-icon.svg"
@@ -220,11 +226,17 @@
     "_npm": {
       "iconPath": "./svg/npm-icon.svg"
     },
+    "_postcss": {
+      "iconPath": "./svg/postcss-icon.svg"
+    },
     "_pdf": {
       "iconPath": "./svg/documentation-icon.svg"
     },
     "_php": {
       "iconPath": "./svg/php-icon.svg"
+    },
+    "_prisma": {
+      "iconPath": "./svg/prisma-icon.svg"
     },
     "_pug": {
       "iconPath": "./svg/pug-icon.svg"
@@ -243,6 +255,9 @@
     },
     "_rust": {
       "iconPath": "./svg/rust-icon.svg"
+    },
+    "_slim": {
+      "iconPath": "./svg/slim-icon.svg"
     },
     "_sass": {
       "iconPath": "./svg/sass-icon.svg"
@@ -325,6 +340,7 @@
   "folderNames": {
     ".vscode": "_vscode",
     "__tests__": "_folder-green",
+    "__mocks__": "_folder-purple",
     "app": "_folderapp",
     "android": "_android",
     "assets": "_folderassets",
@@ -343,6 +359,7 @@
     "src": "_folder-blue",
     "source": "_folder-blue",
     "tests": "_folder-green",
+    "mocks": "_folder-purple",
     "web": "_folderpublic"
   },
   "fileExtensions": {
@@ -352,6 +369,7 @@
     "app": "_binary",
     "article": "_go",
     "asm": "_assembly",
+    "astro": "_astro",
     "babelrc": "_babel",
     "bash": "_shell",
     "bin": "_binary",
@@ -407,6 +425,7 @@
     "htaccess": "_apache",
     "html": "_html",
     "html.twig": "_twig",
+    "html.slim": "_slim",
     "ico": "_image",
     "iges": "_model",
     "igs": "_model",
@@ -438,8 +457,10 @@
     "pdf": "_pdf",
     "php": "_php",
     "png": "_image",
+    "pcss": "_postcss",
     "properties": "_properties",
     "prt": "_model",
+    "prisma": "_prisma",
     "pug": "_pug",
     "pxm": "_image",
     "py": "_python",
