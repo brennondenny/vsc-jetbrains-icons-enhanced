@@ -100,6 +100,9 @@
     "_folder-green": {
       "iconPath": "./svg/folder-green-icon.svg"
     },
+    "_folder-orange": {
+      "iconPath": "./svg/folder-orange-icon.svg"
+    },
     "_folder-purple": {
       "iconPath": "./svg/folder-purple-icon.svg"
     },
@@ -340,7 +343,7 @@
   "folderNames": {
     ".vscode": "_vscode",
     "__tests__": "_folder-green",
-    "__mocks__": "_folder-purple",
+    "__mock__": "_folder-purple",
     "app": "_folderapp",
     "android": "_android",
     "assets": "_folderassets",
@@ -358,8 +361,9 @@
     "settings": "_folderconfig",
     "src": "_folder-blue",
     "source": "_folder-blue",
+    "scripts": "_folder-orange",
     "tests": "_folder-green",
-    "mocks": "_folder-purple",
+    "mock": "_folder-purple",
     "web": "_folderpublic"
   },
   "fileExtensions": {
