@@ -205,6 +205,9 @@
     "_kotlin": {
       "iconPath": "./svg/kotlin-icon.svg"
     },
+    "_lua": {
+      "iconPath": "./svg/lua-icon.svg"
+    },
     "_less": {
       "iconPath": "./svg/less-icon.svg"
     },
@@ -446,6 +449,7 @@
     "json": "_json",
     "jsx": "_jsx",
     "kt": "_kotlin",
+    "lua": "_lua",
     "lib": "_binary",
     "litcoffee": "_coffeescript",
     "log": "_log",
@@ -534,6 +538,7 @@
     "java": "_java",
     "javascript": "_js",
     "json": "_json",
+    "lua": "_lua",
     "less": "_less",
     "markdown": "_markdown",
     "php": "_php",
