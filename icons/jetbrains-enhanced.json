@@ -41,7 +41,7 @@
       "iconPath": "./svg/coffeescript-icon.svg"
     },
     "_c": {
-      "iconPath": "./svg/csharp-icon.svg"
+      "iconPath": "./svg/c-icon.svg"
     },
     "_cpp": {
       "iconPath": "./svg/cplusplus-icon.svg"
