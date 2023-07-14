@@ -5,7 +5,7 @@
   "categories": [
     "Themes"
   ],
-  "version": "1.5.0",
+  "version": "2.0.0",
   "publisher": "BrennonDenny",
   "repository": "https://github.com/brennondenny/vsc-jetbrains-icons-enhanced",
   "engines": {
@@ -32,7 +32,7 @@
       {
         "id": "vsc-jetbrains-icons-enhanced",
         "label": "JetBrains Icons Enhanced",
-        "path": "./icons/jetbrains-enhanced.json"
+        "path": "./theme/theme.json"
       }
     ]
   }
