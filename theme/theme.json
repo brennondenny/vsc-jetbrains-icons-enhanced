@@ -125,7 +125,7 @@
     "zip": {"iconPath": "./icons/files/archive.svg"}
   },
   "folder": "folder",
-  "folderName": {
+  "folderNames": {
     ".android": "android",
     ".config": "folder-config",
     ".mock": "folder-purple",
