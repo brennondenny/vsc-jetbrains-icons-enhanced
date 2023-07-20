@@ -122,7 +122,8 @@
     "yaml": {"iconPath": "./icons/files/yaml.svg"},
     "yarn": {"iconPath": "./icons/files/yarn.svg"},
     "yarnerror": {"iconPath": "./icons/files/yarnerror.svg"},
-    "zip": {"iconPath": "./icons/files/archive.svg"}
+    "zip": {"iconPath": "./icons/files/archive.svg"},
+    "zig": {"iconPath": "./icons/files/zig.svg"}
   },
   "folder": "folder",
   "folderNames": {
@@ -529,7 +530,8 @@
     "xslt": "xml",
     "yaml": "yaml",
     "yml": "yaml",
-    "zip": "zip"
+    "zip": "zip",
+    "zig": "zig"
   },
   "fileNames": {
     "cspell.json": "spellcheck",
